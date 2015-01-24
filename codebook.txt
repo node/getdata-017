@@ -1,6 +1,6 @@
-This is the code book for getdata-017 project (week 3).
+This is the code book for getdata-017 week 3 project .
 
-labels: 
+Activities labels coded as belown : 
 1	WALKING
 2	WALKING_UPSTAIRS
 3	WALKING_DOWNSTAIRS
