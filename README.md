@@ -5,7 +5,9 @@ Getting and Cleaning Data Course : week 3 Project
 https://class.coursera.org/getdata-017 
 
 run_analysis.R is the R script to analysis data .
+
 The analysis flow is :
+
 1. load library
 2. load data 
 3.  Merges the training and the test sets to create one data set.
